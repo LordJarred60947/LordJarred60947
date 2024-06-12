@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @LordJarred60947
-- 👀 I’m interested in Game And Web Development
-- 🌱 I’m currently learning Web Development Full Stacks
-- 💞️ I’m looking to collaborate on Nothing
+Im @LordJarred60947 (SussyBaka)
+A learning Game Dev and Web dev
+Focusing on Game Development
 - 📫 How to reach me, actually no im good
 
 <!---
